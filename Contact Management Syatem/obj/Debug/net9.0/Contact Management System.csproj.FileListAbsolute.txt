@@ -1,0 +1,17 @@
+E:\C#\Contact Management System\bin\Debug\net9.0\Contact Management System.exe
+E:\C#\Contact Management System\bin\Debug\net9.0\Contact Management System.deps.json
+E:\C#\Contact Management System\bin\Debug\net9.0\Contact Management System.runtimeconfig.json
+E:\C#\Contact Management System\bin\Debug\net9.0\Contact Management System.dll
+E:\C#\Contact Management System\bin\Debug\net9.0\Contact Management System.pdb
+E:\C#\Contact Management System\bin\Debug\net9.0\Pastel.dll
+E:\C#\Contact Management System\obj\Debug\net9.0\Contact Management System.csproj.AssemblyReference.cache
+E:\C#\Contact Management System\obj\Debug\net9.0\Contact Management System.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Contact Management System\obj\Debug\net9.0\Contact Management System.AssemblyInfoInputs.cache
+E:\C#\Contact Management System\obj\Debug\net9.0\Contact Management System.AssemblyInfo.cs
+E:\C#\Contact Management System\obj\Debug\net9.0\Contact Management System.csproj.CoreCompileInputs.cache
+E:\C#\Contact Management System\obj\Debug\net9.0\Contact .4BC2C738.Up2Date
+E:\C#\Contact Management System\obj\Debug\net9.0\Contact Management System.dll
+E:\C#\Contact Management System\obj\Debug\net9.0\refint\Contact Management System.dll
+E:\C#\Contact Management System\obj\Debug\net9.0\Contact Management System.pdb
+E:\C#\Contact Management System\obj\Debug\net9.0\Contact Management System.genruntimeconfig.cache
+E:\C#\Contact Management System\obj\Debug\net9.0\ref\Contact Management System.dll

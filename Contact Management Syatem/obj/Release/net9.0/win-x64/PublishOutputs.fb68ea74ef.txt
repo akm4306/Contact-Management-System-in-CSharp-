@@ -1,0 +1,2 @@
+E:\C#\Contact Management System\bin\Release\net9.0\win-x64\publish\Contact Management System.pdb
+E:\C#\Contact Management System\bin\Release\net9.0\win-x64\publish\Contact Management System.exe
